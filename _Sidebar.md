@@ -9,7 +9,7 @@
 * [[Cohort Characterizations]]
 * [[Cohort Pathways]]
 * [[Incidence Rates]]
-* [[Profiles]]
+* [[Patient Profiles]]
 * [[Estimation]]
 * [[Prediction]]
 * [[Jobs]]
