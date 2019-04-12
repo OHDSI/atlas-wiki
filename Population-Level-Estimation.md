@@ -10,7 +10,7 @@ The estimation procedure in ATLAS uses the propensity score methodology. There a
 
 There are inputs required to design the outcome model and as such several video tutorials are available to understand and learn the estimation feature in ATLAS: 
 
-OHDSI Estimation Methods Tutorials
+## OHDSI Estimation Methods Tutorials
 
 - <a href="https://www.youtube.com/watch?v=ZCCz9yHy82c">2018 OHDSI Population-Level Estimation Tutorial (1 of 6)</a><br>
 - <a href="https://www.youtube.com/watch?v=an2e3mowQpc">2018 OHDSI Population-Level Estimation Tutorial (2 of 6)</a><br>
