@@ -1,12 +1,9 @@
 # Incidence Rates
 
-**TODO: Expand this out to describe the standardized analytic and the role of having multiple T's and O's.** 
+Incidence rates is a tool that allows you to estimate the incidence of outcomes within target populations of interest.
 
-Incidence Rates can be generated using ATLAS by clicking on the Incidence Rate menu item and including target and outcome cohorts. Incidence rates can be generated on any of the available data sources. The incidence rate is reported as a proportion and a rate. The raw counts of people, cases, and time at risk are provided. 
+## Tutorial Videos
 
-<img src="images/incidence-rates/atlas_incidence_rate.png">
+### Overview
 
-
-
-
-
+<a href="https://youtu.be/sl1tkcNT17U" target="_blank"><img src="https://img.youtube.com/vi/sl1tkcNT17U/0.jpg" alt="ATLAS Tutorial: Overview of Incidence Rates" width="240" height="180"/></a>

@@ -1,23 +1,20 @@
 **Setup**
-* [[Atlas Installation Guide]]
+* [[Atlas Setup Guide]]
 
-**Documentation**
-* [[User Interface Overview]]
+**Tutorials**
 * [[Data Sources]]
+* [[Vocabulary Search]]
 * [[Concept Sets]]
-* [[Cohort Definition]]
-* [[Cohort Characterizations]]
+* [[Cohort Definitions]]
+* [[Characterizations]]
 * [[Cohort Pathways]]
 * [[Incidence Rates]]
-* [[Patient Profiles]]
-* [[Population Level Estimation]]
-* [[Patient Level Prediction]]
+* [[Profiles]]
+* [[Estimation]]
+* [[Prediction]]
 * [[Jobs]]
 * [[Configuration]]
 * [[Feedback]]
-
-**Project Management**
-* [[Roadmap]]
 
 **Contributing**
 * [[How to Contribute]]

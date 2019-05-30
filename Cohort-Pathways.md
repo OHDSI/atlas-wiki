@@ -1,3 +1,0 @@
-# Cohort Pathways
-
-TODO

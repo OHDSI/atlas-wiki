@@ -1,3 +1,0 @@
-# Cohort Characterizations
-
-TODO

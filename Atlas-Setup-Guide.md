@@ -5,7 +5,7 @@ The following sections detail the process for setting up Atlas and its dependenc
 ## Prerequisites
 
 ### WebAPI
-The first prerequisite for ATLAS is to [Install the OHDSI WebAPI](https://github.com/OHDSI/WebAPI). Installation and configuration information is available on the [WebAPI wiki](https://github.com/OHDSI/WebAPI/wiki). The ATLAS setup assumes WebAPI is avaiable and configured with one or more patient data sets converted to the OMOP Common Data Model.  
+The first prerequisite for ATLAS is to [Install the OHDSI WebAPI](https://github.com/OHDSI/WebAPI). Installation and configuration information is available on the [WebAPI wiki](https://github.com/OHDSI/WebAPI/wiki). The ATLAS setup assumes WebAPI is available and configured with one or more patient data sets converted to the OMOP Common Data Model.  
 
 ### Achilles
 To use the [[Data Sources]] feature within ATLAS you must first [setup and execute ACHILLES](https://github.com/OHDSI/Achilles#getting-started) in your environment. Once you have successfully generated summary statistics, you are ready to configure ATLAS to use this information.
