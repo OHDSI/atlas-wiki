@@ -4,8 +4,7 @@ same open science community standards and tools.
 
 For an overview of ATLAS, please checkout the following video:
 
-<a href="https://youtu.be/dr9FhEkf04o" target="_blank"><img src="https://img.youtube.com/vi/dr9FhEkf04o/0.jpg" alt="ATLAS Tutorial: Overview of ATLAS" width="240" height="180"/></a>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dr9FhEkf04o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Setup & Configuration
 

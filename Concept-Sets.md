@@ -2,9 +2,6 @@
 
 Concept sets is the ability to create your own lists of codes that you are going to use throughout your standardized analyses so by searching the vocabulary and identifying the sets of terms that you're interested in you can save those and reuse them in all of your analyses.
 
-
-**TODO: Add in information on generating negative controls via ATLAS. Link to the CEM documentation.**
-
 ## Tutorial Videos
 
 ### Explore Concept Set
